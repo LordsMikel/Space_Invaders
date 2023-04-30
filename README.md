@@ -23,7 +23,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 Para compilar el código, puedes usar g++ o cualquier otro compilador de C++ compatible. Aquí está el comando de compilación que puedes usar:
 
 ```bash
- g++ space_invaders.cpp -o space_invaders -lncurses
+ g++ space_invader.cpp -o space_invader -lncurses
 ```
 ## Cómo jugar
 
