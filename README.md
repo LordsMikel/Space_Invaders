@@ -33,6 +33,8 @@ El juego se controla con las siguientes teclas:
 - 'd': mueve tu nave a la derecha.
 - 's': dispara para destruir a los aliens que caen desde la parte superior de la pantalla.
 - 'q' Salir del juego.
+
+
 Tu objetivo es destruir a todos los aliens antes de que alcancen la parte inferior de la pantalla, ya que eso significa que han invadido la Tierra y has perdido el juego.
 
 Recuerda que tienes un límite de tiempo para destruir a los aliens y que algunos de ellos pueden moverse más rápido que otros. También ten en cuenta que los aliens se mueven hacia abajo en grupo, por lo que si logras destruir a uno de ellos, los demás se moverán más rápido.
